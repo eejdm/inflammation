@@ -1,0 +1,7 @@
+# Author: Jack McGrath
+# Date: 2020-06-15
+
+Project Kickoff Meeting:
+
+Some initial data analysis to identify how inflammation changes over time post-surgery.
+
