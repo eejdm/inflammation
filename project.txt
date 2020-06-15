@@ -5,4 +5,6 @@ Project Kickoff Meeting:
 
 Some initial data analysis to identify how inflammation changes over time post-surgery.
 
-Here is some additonal work
+Jane is a data scientist and Samit is a statistician. We will need to determine who is responcible for what in this project.
+
+We may need to bring in a third person with python programming skills into this project.
