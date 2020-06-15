@@ -8,3 +8,4 @@ Some initial data analysis to identify how inflammation changes over time post-s
 Jane is a data scientist and Samit is a statistician. We will need to determine who is responcible for what in this project.
 
 We may need to bring in a third person with python programming skills into this project.
+we imagine this person will need to know about Pandas and MatPlotLib.
