@@ -1,1 +1,2 @@
 Initially require data regarding type of surgery and prevalance of inflammations.
+Also need data on size of inflammations.
