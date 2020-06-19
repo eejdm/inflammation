@@ -10,4 +10,5 @@ Jane is a data scientist and Samit is a statistician. We will need to determine 
 We may need to bring in a third person with python programming skills into this project.
 We imagine this person will need to know about Pandas and MatPlotLib.
 
-Third team member will be responsible for the framework of the programming.
+Third team member will be responsible for the framework of the programming
+Here is an additional line of no use.
